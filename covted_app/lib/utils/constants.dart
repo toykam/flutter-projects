@@ -1,0 +1,1 @@
+String serverUrl = "http://toykam.ml/apis";

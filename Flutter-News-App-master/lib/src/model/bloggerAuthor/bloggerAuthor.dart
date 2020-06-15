@@ -1,0 +1,3 @@
+class BloggerAuthor {
+  String displayName;
+}
